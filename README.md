@@ -5,7 +5,7 @@ Purpose of this lab:
 - Practice exiting and reutrning to course from course repo 
 
 ### Lab course:
-![link](https://lab.github.com/githubtraining/create-a-release-based-workflow)
+[link](https://lab.github.com/githubtraining/create-a-release-based-workflow)
 
 
 ### What I learned:
